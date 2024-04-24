@@ -6,7 +6,7 @@ html, body {
             margin: 0;
             font-family: sans-serif;
             -webkit-text-size-adjust: 100%;
-            -webkit-tap-highlight-color: transparent;
+            -webkit-tap-highlight-color: blue;
         }
 
         @-webkit-keyframes progress-bar-stripes {
